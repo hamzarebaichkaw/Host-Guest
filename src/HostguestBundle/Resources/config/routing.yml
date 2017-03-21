@@ -1,0 +1,12 @@
+hostguest_homepage:
+    path:     /
+    defaults: { _controller: HostguestBundle:Default:index }
+about:
+    path:     /about
+    defaults: { _controller: HostguestBundle:Default:about }
+tours:
+    path:     /tours
+    defaults: { _controller: HostguestBundle:Default:tours }
+contact:
+    path:     /contact
+    defaults: { _controller: HostguestBundle:Default:contact }

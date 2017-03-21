@@ -1,0 +1,18 @@
+/* generated in /www/sites/searchandgo.elated-themes.com/files/html/wp-content/themes/search-and-go/assets/custom-styles/general-custom-styles.php search_and_go_elated_design_styles function */
+.eltd-preload-background { background-image: url(../img/preload_pattern.png) !important;}
+
+/* generated in /www/sites/searchandgo.elated-themes.com/files/html/wp-content/themes/search-and-go/assets/custom-styles/general-custom-styles.php search_and_go_elated_design_styles function */
+.eltd-wrapper-inner, .eltd-content { background-color: #ffffff;}
+
+/* generated in /www/sites/searchandgo.elated-themes.com/files/html/wp-content/themes/search-and-go/assets/custom-styles/general-custom-styles.php search_and_go_elated_design_styles function */
+.eltd-boxed .eltd-wrapper { background-attachment: fixed;}
+
+/* generated in /www/sites/searchandgo.elated-themes.com/files/html/wp-content/themes/search-and-go/framework/modules/header/custom-styles/header.inc search_and_go_elated_header_top_bar_styles function */
+body:not(.post-type-archive-listing-item) .eltd-top-bar { background-color: rgba(15, 15, 15, 0.7);}
+
+/* generated in /www/sites/searchandgo.elated-themes.com/files/html/wp-content/themes/search-and-go/framework/modules/header/custom-styles/header.inc search_and_go_elated_header_standard_menu_area_styles function */
+.eltd-header-standard:not(.post-type-archive-listing-item) .eltd-page-header .eltd-menu-area { background-color: rgba(255, 255, 255, 0);}
+
+/* generated in /www/sites/searchandgo.elated-themes.com/files/html/wp-content/themes/search-and-go/framework/modules/header/custom-styles/header.inc search_and_go_elated_sticky_header_styles function */
+.eltd-page-header .eltd-sticky-header .eltd-sticky-holder { background-color: rgba(0, 0, 0, 0.7);}
+
